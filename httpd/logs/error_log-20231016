@@ -1,0 +1,68 @@
+[Mon Oct 09 12:52:32.780822 2023] [suexec:notice] [pid 6735:tid 6735] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Mon Oct 09 12:52:32.800899 2023] [lbmethod_heartbeat:notice] [pid 6735:tid 6735] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 09 12:52:32.802032 2023] [systemd:notice] [pid 6735:tid 6735] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Mon Oct 09 12:52:32.809139 2023] [mpm_event:notice] [pid 6735:tid 6735] AH00489: Apache/2.4.56 (Amazon Linux) configured -- resuming normal operations
+[Mon Oct 09 12:52:32.809161 2023] [core:notice] [pid 6735:tid 6735] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Oct 09 12:53:36.885549 2023] [mpm_event:notice] [pid 6735:tid 6735] AH00492: caught SIGWINCH, shutting down gracefully
+[Mon Oct 09 12:54:06.629266 2023] [suexec:notice] [pid 6999:tid 6999] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Mon Oct 09 12:54:06.645224 2023] [lbmethod_heartbeat:notice] [pid 6999:tid 6999] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 09 12:54:06.646250 2023] [systemd:notice] [pid 6999:tid 6999] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Mon Oct 09 12:54:06.652599 2023] [mpm_event:notice] [pid 6999:tid 6999] AH00489: Apache/2.4.56 (Amazon Linux) configured -- resuming normal operations
+[Mon Oct 09 12:54:06.652622 2023] [core:notice] [pid 6999:tid 6999] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Oct 09 13:18:18.950455 2023] [mpm_event:notice] [pid 6999:tid 6999] AH00492: caught SIGWINCH, shutting down gracefully
+[Mon Oct 09 18:58:58.619232 2023] [suexec:notice] [pid 5819:tid 5819] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Mon Oct 09 18:58:58.635516 2023] [lbmethod_heartbeat:notice] [pid 5819:tid 5819] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 09 18:58:58.636696 2023] [systemd:notice] [pid 5819:tid 5819] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Mon Oct 09 18:58:58.643607 2023] [mpm_event:notice] [pid 5819:tid 5819] AH00489: Apache/2.4.56 (Amazon Linux) configured -- resuming normal operations
+[Mon Oct 09 18:58:58.643623 2023] [core:notice] [pid 5819:tid 5819] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Oct 09 18:59:10.228924 2023] [mpm_event:notice] [pid 5819:tid 5819] AH00492: caught SIGWINCH, shutting down gracefully
+[Mon Oct 09 19:25:13.831240 2023] [suexec:notice] [pid 7167:tid 7167] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Mon Oct 09 19:25:13.856308 2023] [lbmethod_heartbeat:notice] [pid 7167:tid 7167] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 09 19:25:13.857421 2023] [systemd:notice] [pid 7167:tid 7167] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Mon Oct 09 19:25:13.863942 2023] [mpm_event:notice] [pid 7167:tid 7167] AH00489: Apache/2.4.56 (Amazon Linux) configured -- resuming normal operations
+[Mon Oct 09 19:25:13.863958 2023] [core:notice] [pid 7167:tid 7167] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Oct 09 19:54:56.966598 2023] [mpm_event:notice] [pid 7167:tid 7167] AH00492: caught SIGWINCH, shutting down gracefully
+[Mon Oct 09 19:54:58.039523 2023] [suexec:notice] [pid 9384:tid 9384] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Mon Oct 09 19:54:58.054681 2023] [lbmethod_heartbeat:notice] [pid 9384:tid 9384] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 09 19:54:58.055876 2023] [systemd:notice] [pid 9384:tid 9384] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Mon Oct 09 19:54:58.062666 2023] [mpm_event:notice] [pid 9384:tid 9384] AH00489: Apache/2.4.56 (Amazon Linux) configured -- resuming normal operations
+[Mon Oct 09 19:54:58.062682 2023] [core:notice] [pid 9384:tid 9384] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Mon Oct 09 19:55:10.700878 2023] [autoindex:error] [pid 9386:tid 9485] [client 126.166.254.202:24242] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Oct 09 20:01:27.447237 2023] [mpm_event:notice] [pid 9384:tid 9384] AH00492: caught SIGWINCH, shutting down gracefully
+[Tue Oct 10 19:30:17.471712 2023] [suexec:notice] [pid 2530:tid 2530] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Tue Oct 10 19:30:17.493612 2023] [lbmethod_heartbeat:notice] [pid 2530:tid 2530] AH02282: No slotmem from mod_heartmonitor
+[Tue Oct 10 19:30:17.494920 2023] [systemd:notice] [pid 2530:tid 2530] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Tue Oct 10 19:30:17.501425 2023] [mpm_event:notice] [pid 2530:tid 2530] AH00489: Apache/2.4.56 (Amazon Linux) configured -- resuming normal operations
+[Tue Oct 10 19:30:17.501443 2023] [core:notice] [pid 2530:tid 2530] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Oct 10 19:31:15.171333 2023] [autoindex:error] [pid 2534:tid 2686] [client 106.157.232.22:54165] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 10 19:35:57.646711 2023] [mpm_event:notice] [pid 2530:tid 2530] AH00492: caught SIGWINCH, shutting down gracefully
+[Tue Oct 10 19:37:38.554514 2023] [suexec:notice] [pid 2355:tid 2355] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Tue Oct 10 19:37:38.573842 2023] [lbmethod_heartbeat:notice] [pid 2355:tid 2355] AH02282: No slotmem from mod_heartmonitor
+[Tue Oct 10 19:37:38.575112 2023] [systemd:notice] [pid 2355:tid 2355] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Tue Oct 10 19:37:38.581794 2023] [mpm_event:notice] [pid 2355:tid 2355] AH00489: Apache/2.4.56 (Amazon Linux) configured -- resuming normal operations
+[Tue Oct 10 19:37:38.581814 2023] [core:notice] [pid 2355:tid 2355] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Tue Oct 10 20:05:10.515994 2023] [mpm_event:notice] [pid 2355:tid 2355] AH00492: caught SIGWINCH, shutting down gracefully
+[Wed Oct 11 22:12:38.197042 2023] [suexec:notice] [pid 6924:tid 6924] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Wed Oct 11 22:12:38.217784 2023] [lbmethod_heartbeat:notice] [pid 6924:tid 6924] AH02282: No slotmem from mod_heartmonitor
+[Wed Oct 11 22:12:38.218955 2023] [systemd:notice] [pid 6924:tid 6924] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Wed Oct 11 22:12:38.229858 2023] [mpm_event:notice] [pid 6924:tid 6924] AH00489: Apache/2.4.56 (Amazon Linux) configured -- resuming normal operations
+[Wed Oct 11 22:12:38.229878 2023] [core:notice] [pid 6924:tid 6924] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Oct 11 22:14:42.519855 2023] [mpm_event:notice] [pid 6924:tid 6924] AH00492: caught SIGWINCH, shutting down gracefully
+[Wed Oct 11 22:25:45.457450 2023] [suexec:notice] [pid 7774:tid 7774] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Wed Oct 11 22:25:45.489814 2023] [lbmethod_heartbeat:notice] [pid 7774:tid 7774] AH02282: No slotmem from mod_heartmonitor
+[Wed Oct 11 22:25:45.491069 2023] [systemd:notice] [pid 7774:tid 7774] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Wed Oct 11 22:25:45.500815 2023] [mpm_event:notice] [pid 7774:tid 7774] AH00489: Apache/2.4.56 (Amazon Linux) configured -- resuming normal operations
+[Wed Oct 11 22:25:45.500836 2023] [core:notice] [pid 7774:tid 7774] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Oct 11 22:54:22.485277 2023] [mpm_event:notice] [pid 7774:tid 7774] AH00492: caught SIGWINCH, shutting down gracefully
+[Wed Oct 11 22:54:23.638127 2023] [suexec:notice] [pid 10311:tid 10311] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Wed Oct 11 22:54:23.654798 2023] [lbmethod_heartbeat:notice] [pid 10311:tid 10311] AH02282: No slotmem from mod_heartmonitor
+[Wed Oct 11 22:54:23.656040 2023] [systemd:notice] [pid 10311:tid 10311] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Wed Oct 11 22:54:23.665117 2023] [mpm_event:notice] [pid 10311:tid 10311] AH00489: Apache/2.4.56 (Amazon Linux) configured -- resuming normal operations
+[Wed Oct 11 22:54:23.665147 2023] [core:notice] [pid 10311:tid 10311] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Wed Oct 11 23:25:03.224304 2023] [mpm_event:notice] [pid 10311:tid 10311] AH00492: caught SIGWINCH, shutting down gracefully
+[Thu Oct 12 22:42:59.982664 2023] [suexec:notice] [pid 3680:tid 3680] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+[Thu Oct 12 22:43:00.001680 2023] [lbmethod_heartbeat:notice] [pid 3680:tid 3680] AH02282: No slotmem from mod_heartmonitor
+[Thu Oct 12 22:43:00.002798 2023] [systemd:notice] [pid 3680:tid 3680] SELinux policy enabled; httpd running as context system_u:system_r:httpd_t:s0
+[Thu Oct 12 22:43:00.010699 2023] [mpm_event:notice] [pid 3680:tid 3680] AH00489: Apache/2.4.56 (Amazon Linux) configured -- resuming normal operations
+[Thu Oct 12 22:43:00.010726 2023] [core:notice] [pid 3680:tid 3680] AH00094: Command line: '/usr/sbin/httpd -D FOREGROUND'
+[Fri Oct 13 00:42:42.009548 2023] [mpm_event:notice] [pid 3680:tid 3680] AH00492: caught SIGWINCH, shutting down gracefully

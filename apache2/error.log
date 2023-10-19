@@ -1,0 +1,17 @@
+[Thu Oct 12 14:43:02.523812 2023] [mpm_event:notice] [pid 3721:tid 140128769408320] AH00489: Apache/2.4.56 (Debian) configured -- resuming normal operations
+[Thu Oct 12 14:43:02.523925 2023] [core:notice] [pid 3721:tid 140128769408320] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Oct 12 14:46:58.732528 2023] [mpm_event:notice] [pid 3721:tid 140128769408320] AH00491: caught SIGTERM, shutting down
+[Thu Oct 12 14:53:59.310317 2023] [mpm_event:notice] [pid 152:tid 140574697893184] AH00489: Apache/2.4.56 (Debian) configured -- resuming normal operations
+[Thu Oct 12 14:53:59.313715 2023] [core:notice] [pid 152:tid 140574697893184] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Oct 12 14:59:47.468963 2023] [mpm_event:notice] [pid 152:tid 140574697893184] AH00491: caught SIGTERM, shutting down
+[Thu Oct 12 15:13:20.533770 2023] [mpm_event:notice] [pid 745:tid 139814951664960] AH00489: Apache/2.4.56 (Debian) configured -- resuming normal operations
+[Thu Oct 12 15:13:20.533881 2023] [core:notice] [pid 745:tid 139814951664960] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Oct 12 15:35:05.357719 2023] [mpm_event:notice] [pid 745:tid 139814951664960] AH00491: caught SIGTERM, shutting down
+[Mon Oct 16 11:05:36.175860 2023] [mpm_event:notice] [pid 189:tid 140391047298368] AH00489: Apache/2.4.56 (Debian) configured -- resuming normal operations
+[Mon Oct 16 11:05:36.176912 2023] [core:notice] [pid 189:tid 140391047298368] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 16 12:13:34.026073 2023] [mpm_event:notice] [pid 189:tid 140391047298368] AH00491: caught SIGTERM, shutting down
+[Mon Oct 16 12:23:41.449302 2023] [mpm_event:notice] [pid 998:tid 140221971275072] AH00489: Apache/2.4.56 (Debian) configured -- resuming normal operations
+[Mon Oct 16 12:23:41.449496 2023] [core:notice] [pid 998:tid 140221971275072] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 16 12:41:17.184598 2023] [core:warn] [pid 161:tid 139874784591168] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 16 12:41:17.185626 2023] [mpm_event:notice] [pid 161:tid 139874784591168] AH00489: Apache/2.4.56 (Debian) configured -- resuming normal operations
+[Mon Oct 16 12:41:17.185648 2023] [core:notice] [pid 161:tid 139874784591168] AH00094: Command line: '/usr/sbin/apache2'
