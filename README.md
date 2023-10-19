@@ -1,18 +1,12 @@
-
 sequenceDiagram
-    participant LocalPC as "Spring Boot (Local PC)"
-    participant EC2Instance as "EC2 Instance (Amazon Linux 2023)"
-    participant DBContainer as "DB Container"
+    participant LocalPC as "Spring Boot (ローカルPC)"
+    participant DBContainer as "コンテナのDB"
 
-    LocalPC->>EC2Instance: Connect
-    Note over EC2Instance: Docker Container Running
-    EC2Instance->>DBContainer: Connect
+    LocalPC->>DBContainer: 接続
 
     activate LocalPC
-    LocalPC->>+EC2Instance: POST to\nHTTP: EC2_IP:3307
-    Note over EC2Instance: Handle\nPOST Request
-    EC2Instance->>-DBContainer: Perform\nDatabase Operations
+    LocalPC->>+DBContainer: POST \HTTP: EC2_IP:3307
+    Note over DBContainer: データベース操作を実行
     deactivate LocalPC
-
-    DBContainer-->>-EC2Instance: Respond\nwith Data
-    EC2Instance-->>-LocalPC: Respond\nwith Data
+    Note over DBContainer: データベースで応答
+    DBContainer-->>-LocalPC: 応答
