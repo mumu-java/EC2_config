@@ -1,6 +1,6 @@
-・apache2
+・apache2(コンテナ)
 apache2.confの最後の行にServerName localhost追加
 ports.confにListen 3307に変更
 
-・httpd
+・httpd(EC2本体)
 /conf/httpd.conf/にProtocols http/1.1を追加
