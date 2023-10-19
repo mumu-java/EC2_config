@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant LocalPC as "Spring Boot (ローカルPC)"
     participant DBContainer as "コンテナのDB"
@@ -10,3 +11,4 @@ sequenceDiagram
     deactivate LocalPC
     Note over DBContainer: データベースで応答
     DBContainer-->>-LocalPC: 応答
+```
