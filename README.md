@@ -1,5 +1,4 @@
-システム構成
-```mermaid
+
 sequenceDiagram
     participant LocalPC as "Spring Boot (Local PC)"
     participant EC2Instance as "EC2 Instance (Amazon Linux 2023)"
@@ -17,4 +16,3 @@ sequenceDiagram
 
     DBContainer-->>-EC2Instance: Respond\nwith Data
     EC2Instance-->>-LocalPC: Respond\nwith Data
-```
